@@ -1,3 +1,6 @@
+https://youtu.be/G4NhVHALOe0
+
+
 # Programacion-3
 Pasos para Crear y Automatizar un Asistente con Telegram, IA Agent, Google Gemini, Window Buffer Memory, y SERP API
 
